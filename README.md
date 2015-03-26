@@ -96,3 +96,7 @@ Output 2
 57
 
 95
+
+## Stuff to do
+
+Need to optimize the algorithm, just using simple brute force. Takes long time on lenght > 25 chains.
