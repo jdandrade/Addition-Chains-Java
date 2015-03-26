@@ -43,7 +43,7 @@ You will output the entire addition chain, one number per line. There will be se
 Note that going by the strict definition of addition chains, they don't necessarily have to be strictly increasing. However, any addition chain that is not strictly increasing can be reordered into one that is, so you can safely assume that all addition chains are increasing. In fact, making this assumption is probably a very good idea!
 
 
-Examples
+#### Examples
 
 Input 1
 
@@ -96,12 +96,3 @@ Output 2
 57
 
 95
-
-Challenge inputs
-Input 1
-
-10 127
-
-Input 2
-
-13 743
