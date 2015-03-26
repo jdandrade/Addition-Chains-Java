@@ -41,7 +41,10 @@ Output description
 You will output the entire addition chain, one number per line. There will be several different addition chains of the given length, but you only need to output one of them.
 
 Note that going by the strict definition of addition chains, they don't necessarily have to be strictly increasing. However, any addition chain that is not strictly increasing can be reordered into one that is, so you can safely assume that all addition chains are increasing. In fact, making this assumption is probably a very good idea!
+
+
 Examples
+
 Input 1
 
 7 43
