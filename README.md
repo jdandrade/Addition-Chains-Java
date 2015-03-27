@@ -3,6 +3,8 @@ An "addition chain" is a sequence of numbers that starts with 1 and where each n
 
 An example will make this clearer: the sequence [1, 2, 3, 5, 10, 11, 21, 42, 84] is an addition chain for the number 84. This is because it starts with 1 and ends with 84, and each number is the sum of two previous numbers.
 
+###### Demonstration
+
 = 1             (chain starts as [1])
                 
 1 + 1   = 2     (chain is now [1, 2]) 
