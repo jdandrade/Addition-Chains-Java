@@ -45,11 +45,11 @@ Note that going by the strict definition of addition chains, they don't necessar
 
 #### Examples
 
-Input 1
+##### Input 1
 
 7 43
 
-Output 1
+##### Output 1
 
 (one of several possible outputs)
 
@@ -69,11 +69,11 @@ Output 1
 
 43
 
-Input 2
+##### Input 2
 
 9 95
 
-Output 2
+##### Output 2
 
 (one of several possible outputs)
 
