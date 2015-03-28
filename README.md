@@ -102,3 +102,5 @@ Note that going by the strict definition of addition chains, they don't necessar
 ## Stuff to do
 
 Need to optimize the algorithm, just using simple brute force. Takes long time on lenght > 25 chains.
+
+Need to check bad input.
