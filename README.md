@@ -31,14 +31,13 @@ There are a several different addition chains of length 8 for the number 84 (ano
 
 Your task today is to try and generate addition chains of a given length and last number.
 
-(by the way, you may think this looks similar to the Fibonacci sequence, but it's not, there's a crucial difference: you don't just add the last two numbers of the chain to get the next number, you can add any two previous numbers to get the next number. The challenge is figuring out, for each step, which two numbers to add)
-Formal inputs & outputs
-Input description
+###### Input description
 
 You will be given one line with two numbers on it. The first number will be the length of the addition chain you are to generate, and the second the final number.
 
 Just to remind you: the length of the addition chain is equal to the number of additions it took to generate it, which is the same as one less than the total amount of numbers in it.
-Output description
+
+###### Output description
 
 You will output the entire addition chain, one number per line. There will be several different addition chains of the given length, but you only need to output one of them.
 
