@@ -23,7 +23,6 @@ An example will make this clearer: the sequence [1, 2, 3, 5, 10, 11, 21, 42, 84]
 
 42 + 42 = 84    (chain is now [1, 2, 3, 5, 10, 11, 21, 42, 84]) 
 
-Notice that the right hand side of the equations make up the chain, and left hand side of all the equations is a sum of two numbers that occur earlier in the chain (sometimes the same number twice).
 
 We say that this chain is of length 8, because it took 8 additions to generate it (this is one less than the total amount of numbers in the chain).
 
