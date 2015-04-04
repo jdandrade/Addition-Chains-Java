@@ -34,8 +34,6 @@ Your task today is to try and generate addition chains of a given length and las
 
 You will be given one line with two numbers on it. The first number will be the length of the addition chain you are to generate, and the second the final number.
 
-Just to remind you: the length of the addition chain is equal to the number of additions it took to generate it, which is the same as one less than the total amount of numbers in it.
-
 ###### Output description
 
 Note that going by the strict definition of addition chains, they don't necessarily have to be strictly increasing. However, any addition chain that is not strictly increasing can be reordered into one that is, so you can safely assume that all addition chains are increasing. In fact, making this assumption is probably a very good idea!
