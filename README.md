@@ -28,8 +28,6 @@ We say that this chain is of length 8, because it took 8 additions to generate i
 
 There are a several different addition chains of length 8 for the number 84 (another one is [1, 2, 4, 8, 16, 32, 64, 68, 84], for instance), but there are no shorter ones. This is as short as we can get.
 
-Your task today is to try and generate addition chains of a given length and last number.
-
 ###### Input description
 
 You will be given one line with two numbers on it. The first number will be the length of the addition chain you are to generate, and the second the final number.
